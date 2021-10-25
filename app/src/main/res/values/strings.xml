@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercise1 (CN)</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="EnterEmail">Enter your email</string>
+    <string name="EnterPassword">Enter your password</string>
+    <string name="Login">LOGIN</string>
+    <string name="NewUser">New user? Register here</string>
+</resources>

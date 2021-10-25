@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercise1 (CN)</string>
+    <string name="email">Địa chỉ email:</string>
+    <string name="password">Mật khẩu:</string>
+    <string name="EnterEmail">Nhập email</string>
+    <string name="EnterPassword">Nhập mật khẩu</string>
+    <string name="Login">Đăng nhập</string>
+    <string name="NewUser">Người dùng mới? Đăng ký tại đây</string>
+</resources>
